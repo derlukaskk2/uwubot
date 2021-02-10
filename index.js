@@ -5,7 +5,7 @@ const {
     MessageManager
   } = require('discord.js');
 var client = new Client();
-var token = "ODA3Mjc1Njk4ODEyMzU0NjUw.YB1oFQ.l5yvqs_xWB8xxjPecw_icTyiOPo";
+var token = "HEREYOURTOKEN";
 client.login(token);
 const fs = require('fs');
 const prefix = "%";
